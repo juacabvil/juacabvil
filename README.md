@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hey! I'm Juan Pablo
+
+<a href="https://www.linkedin.com/in/juan-pablo-cabezas-villalba-474174260/">
+  <img align="left" alt="Juan Pablo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
+Hi there, i'm Juan Pablo! 
+- 👨🏼‍🎓 I'm currently studing my last year of Software Engineering at the University of Seville. 
+- 🖥 I’m focused in learning python and java using Django and Spring, but i like many other languages.
+- 💬 Ask me about anything!
+- 📫 How to reach me: , [email](mailto:jupacavi01@gmail.com) :)
+
+📈 my github stats
+
+<p> <img src="https://github-readme-stats.vercel.app/api?username=juacabvil&show_icons=true&theme=github_dark" alt="juacabvil" />
+
 
 <!--
 **juacabvil/juacabvil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

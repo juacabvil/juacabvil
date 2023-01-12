@@ -13,7 +13,8 @@ Hi there, i'm Juan Pablo!
 
 📈 my github stats
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=juacabvil&show_icons=true&theme=github_dark" alt="juacabvil" />
+![juacabvil github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juacabvil&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=github_dark)
+
 
 
 <!--
